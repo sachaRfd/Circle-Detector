@@ -34,4 +34,8 @@ The model could have worse results if we input images with different shapes as t
 As observed, as the noise level becomes higher than the ones used for training, the model’s performance degrades.
 The model is only trained to detect center coordinates and radius. For further applications such as in object recognition and classification with larger and more varied images, a better model would look at trying to estimate bounding boxes for objects and a classification model architecture.
 Some applications of this sort of algorithm could be used in areas such as medicine if we were to want to determine the location and size of a potential cell/bacteria in a sample image from a lab. This is just an example, and there could be many more examples – which would require a lot more research and fine-tuning of the model.
+
+
+## Final Comments: 
+
 Overall, this project was challenging but rewarding, and the final model's performance was satisfactory.
